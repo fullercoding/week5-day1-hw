@@ -1,0 +1,22 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "connectString": "postgres://gpoprcas:qMb7a0mOkkKbVUO_Q1BFI9iS-u4KLWQb@jelani.db.elephantsql.com/gpoprcas",
+            "name": "DvD_Connor_Database"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "day-1-hw",
+            "connectString": "postgres://gpoprcas:qMb7a0mOkkKbVUO_Q1BFI9iS-u4KLWQb@jelani.db.elephantsql.com/gpoprcas"
+        }
+    ]
+}
